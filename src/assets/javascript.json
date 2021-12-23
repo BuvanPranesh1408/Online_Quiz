@@ -1,88 +1,93 @@
 {
     "questions": [{
-            "questionText": "In JavaScript, what is a block of statement?",
+            "questionText": "Which built-in method returns the length of the string?",
             "options": [{
-                    "text": "block that combines a number of statements into a single compound statement",
+                    "text": "length()",
                     "correct": true
                 },
                 {
-                    "text": "Conditional block"
+                    "text": "size()"
                 },
                 {
-                    "text": "both conditional block and a single statement"
+                    "text": "index()"
                 },
                 {
-                    "text": "block that contains a single statement"
+                    "text": "None"
                 }
-            ]
+            ],
+            "explanation": "length() method returns the length of the string."
         },
         {
-            "questionText": "When interpreter encounters an empty statements, what it will do?",
+            "questionText": "what is the HTML tag under which one can write the JavaScript code?",
             "options": [{
-                    "text": "Shows a warning"
+                    "text": "<javascript>"
                 },
                 {
-                    "text": "Prompts to complete the statement"
+                    "text": "<scripted>"
                 },
                 {
-                    "text": "Throws an error"
+                    "text": "<js>"
                 },
                 {
-                    "text": "Ignores the statements",
+                    "text": "<script>",
                     "correct": true
                 }
-            ]
+            ],
+            "explanation": "If we want to write a JavaScript code under HTML tag, you will have to use the “script” tag."
         },
         {
-            "questionText": "Which of the following variables takes precedence over the others if the names are the same?",
+            "questionText": "Command to use alert box",
             "options": [{
-                    "text": "Global variable"
+                    "text": "alertbox"
                 },
                 {
-                    "text": "The local element",
+                    "text": "alert",
                     "correct": true
                 },
                 {
-                    "text": "The two of the above"
+                    "text": "msg"
                 },
                 {
-                    "text": "None of the above"
+                    "text": "msgbox"
                 }
-            ]
+            ],
+            "explanation": "alert() to display the alert"
         },
         {
-            "questionText": "Which one of the following is the correct way for calling the JavaScript code?",
+            "questionText": "What is the correct syntax for referring to an external script called “geek.js”?",
             "options": [{
-                    "text": "Preprocessor"
+                    "text": "<script href=geek.js>"
                 },
                 {
-                    "text": "Function/Method",
+                    "text": "<script src=geek.js>",
                     "correct": true
                 },
                 {
-                    "text": "Triggering Event"
+                    "text": "<script name=geek.js>"
                 },
                 {
-                    "text": "RMI"
+                    "text": "None"
                 }
-            ]
+            ],
+            "explanation": "The “src” term is used to refer to any JavaScript file."
         },
         {
-            "questionText": "Which of the following type of a variable is volatile?",
+            "questionText": "Which of the following is not a reserved word in JavaScript?",
             "options": [{
-                    "text": "Mutable variable",
+                    "text": "program",
                     "correct": true
                 },
                 {
-                    "text": "Dynamic variable"
+                    "text": "short"
                 },
                 {
-                    "text": "Volatile variable"
+                    "text": "interface"
                 },
                 {
-                    "text": "Immutable variable"
+                    "text": "throws"
                 }
-            ]
-        }
+            ],
+            "explanation": "In JavaScript, interface, throws and short are reserved keywords."
+        }      
     ]
 }

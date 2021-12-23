@@ -1,20 +1,58 @@
 {
     "questions": [{
-            "questionText": "On which of the Architectural pattern AngularJS is based?",
+            "questionText": "Which of the following filter is used to convert an input string to date format.",
             "options": [{
-                    "text": "MVVM Architectural pattern",
+                    "text": "date",
                     "correct": true
                 },
                 {
-                    "text": "MVC Architecture pattern"
+                    "text": "dateformat"
                 },
                 {
-                    "text": "Decorator pattern"
+                    "text": "Both of the above"
                 },
                 {
-                    "text": "Observer Pattern"
+                    "text": "None of the above"
                 }
-            ]
+            ],
+            "explanation": "date filter is used to convert an input string to date format."
+        },
+        {
+            "questionText": "Which of the following filter is used to convert input to all uppercase?",
+            "options": [{
+                    "text": "None of the below"
+                },
+                {
+                    "text": "Both of the below"
+                },
+                {
+                    "text": "upper"
+                },
+                {
+                    "text": "uppercase",
+                    "correct": true
+                }
+            ],
+            "explanation": "uppercase filter is used to convert the input to all uppercase."
+
+        },
+        {
+            "questionText": "Which of the following is true?",
+            "options": [{
+                    "text": "Angular 2 Services can be used to add more data to an Angular JS class."
+                },
+                {
+                    "text": "Angular 2 Metadata can be used to add more data to an Angular JS class",
+                    "correct": true
+                },
+                {
+                    "text": "Angular 2 Components can be used to add more data to an Angular JS class."
+                },
+                {
+                    "text": "None of the above.."
+                }
+            ],
+            "explanation": "Angular 2 Metadata can be used to add more data to an Angular JS class."
         },
         {
             "questionText": "AngularJS is perfect for?",
@@ -22,67 +60,35 @@
                     "text": "MPAs"
                 },
                 {
+                    "text": "SPAs",
+                    "correct": true
+                },
+                {
                     "text": "DPAs"
                 },
                 {
                     "text": "CPAs"
-                },
-                {
-                    "text": "SPAs",
-                    "correct": true
                 }
-            ]
+            ],
+            "explanation": "AngularJS is perfect for Single Page Applications (SPAs)."
         },
         {
-            "questionText": "Which of the following directive is used to bind the application data to the HTML view in AngularJS?",
+            "questionText": "What is the use of Angular Controllers in the application?",
             "options": [{
-                    "text": "ng-app directive"
-                },
-                {
-                    "text": "ng-bind directive",
+                    "text": "Angular controllers are used for controlling the data.",
                     "correct": true
                 },
                 {
-                    "text": "ng-init directive"
+                    "text": "Angular controllers are used for displaying the data."
                 },
                 {
-                    "text": "ng-model directive"
+                    "text": "Both of the above are correct."
+                },
+                {
+                    "text": "None of the above is correct."
                 }
-            ]
-        },
-        {
-            "questionText": "What does the expression float a = 35 / 0 return?",
-            "options": [{
-                    "text": "0"
-                },
-                {
-                    "text": "Infinity",
-                    "correct": true
-                },
-                {
-                    "text": "Run time exception!"
-                },
-                {
-                    "text": "Not a Number"
-                }
-            ]
-        },
-        {
-            "questionText": "Which of the following statement is true about $dirty flag?",
-            "options": [{
-                    "text": "$dirty flag is used to state that value has been changed.",
-                    "correct": true
-                },
-                {
-                    "text": "$dirty flag is used to state that the form has invalid data."
-                },
-                {
-                    "text": "Both of the above."
-                },
-                {
-                    "text": "None of the above."
-                }
-            ]
+            ],
+            "explanation": "Angular controllers are used to control the data."
         }
     ]
 }

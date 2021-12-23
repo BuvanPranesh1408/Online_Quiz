@@ -1,88 +1,93 @@
 {
     "questions": [{
-            "questionText": "<input> is -?",
+            "questionText": "<br> What type of tag is this?",
             "options": [{
-                    "text": "an empty tag.",
+                    "text": "Break tag",
                     "correct": true
                 },
                 {
-                    "text": "a format tag."
+                    "text": "A broken one"
                 },
                 {
-                    "text": "All of the above"
+                    "text": "An opening tag"
                 },
                 {
-                    "text": "None of the above"
+                    "text": "An closing tag"
                 }
-            ]
+            ],
+            "explanation": "<br> is used to insert a new line"
         },
         {
-            "questionText": "Which of the following tag is used to define options in a drop-down selection list?",
+            "questionText": "How is document type initialized in HTML5.?",
             "options": [{
-                    "text": "<select>"
+                    "text": "</DOCTYPE HTML>"
                 },
                 {
-                    "text": "<list>"
+                    "text": "</DOCTYPE>"
                 },
                 {
-                    "text": "<dropdown>"
+                    "text": "</DOCTYPEhtml>"
                 },
                 {
-                    "text": "<option>",
+                    "text": "<!DOCTYPE HTML>",
                     "correct": true
                 }
-            ]
+            ],
+            "explanation": "<!DOCTYPE HTML> is used to initialize"
         },
         {
-            "questionText": " Which of the following attribute is used to provide a unique name to an element?",
+            "questionText": "Which of the following HTML Elements is used for making any text bold?",
             "options": [{
-                    "text": "class"
+                    "text": "<p>"
                 },
                 {
-                    "text": "id",
+                    "text": "<b>",
                     "correct": true
                 },
                 {
-                    "text": "type"
+                    "text": "<li>"
                 },
                 {
-                    "text": "None of the above"
+                    "text": "<hr>"
                 }
-            ]
+            ],
+            "explanation": "<b> used to make HTML Elements Bold"
         },
         {
-            "questionText": "Which of the following is the container for <tr>, <th>, and <td>?",
+            "questionText": "What is the font-size of the h1 heading tag?",
             "options": [{
-                    "text": "<data>"
+                    "text": "3.5 em"
                 },
                 {
-                    "text": "<table>",
+                    "text": "2 em",
                     "correct": true
                 },
                 {
-                    "text": "<group>"
+                    "text": "2.17 em"
                 },
                 {
-                    "text": "All of the above"
+                    "text": "3 em"
                 }
-            ]
+            ],
+            "explanation": "2em is the default font of the h1 tag"
         },
         {
-            "questionText": "What are the types of unordered or bulleted list in HTML?",
+            "questionText": "How many heading tags are there in HTML5?",
             "options": [{
-                    "text": "disc, circle, square",
+                    "text": "6",
                     "correct": true
                 },
                 {
-                    "text": "disc, square, triangle"
+                    "text": "5"
                 },
                 {
-                    "text": "polygon, triangle, circle"
+                    "text": "4"
                 },
                 {
-                    "text": "All of the above"
+                    "text": "3"
                 }
-            ]
-        }
+            ],
+            "explanation": "It has heading tag from h1 to h6"
+        }      
     ]
 }
