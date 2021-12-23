@@ -1,0 +1,88 @@
+{
+    "questions": [{
+            "questionText": "Which of the following option leads to the portability and security of Java?",
+            "options": [{
+                    "text": "Bytecode is executed by JVM",
+                    "correct": true
+                },
+                {
+                    "text": "The applet makes the Java code secure and portable"
+                },
+                {
+                    "text": "Use of exception handling"
+                },
+                {
+                    "text": "Dynamic binding between objects"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following is not a Java features??",
+            "options": [{
+                    "text": "Dynamic"
+                },
+                {
+                    "text": "Architecture Neutral"
+                },
+                {
+                    "text": "Object-oriented"
+                },
+                {
+                    "text": "Use of pointers",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": " _____ is used to find and fix bugs in the Java programs.?",
+            "options": [{
+                    "text": "JVM"
+                },
+                {
+                    "text": "JDB",
+                    "correct": true
+                },
+                {
+                    "text": "JRE"
+                },
+                {
+                    "text": "JDK"
+                }
+            ]
+        },
+        {
+            "questionText": "What does the expression float a = 35 / 0 return?",
+            "options": [{
+                    "text": "0"
+                },
+                {
+                    "text": "Infinity",
+                    "correct": true
+                },
+                {
+                    "text": "Run time exception!"
+                },
+                {
+                    "text": "Not a Number"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the return type of the hashCode() method in the Object class?",
+            "options": [{
+                    "text": "int",
+                    "correct": true
+                },
+                {
+                    "text": "Object"
+                },
+                {
+                    "text": "long"
+                },
+                {
+                    "text": "void"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "questions": [{
+            "questionText": "On which of the Architectural pattern AngularJS is based?",
+            "options": [{
+                    "text": "MVVM Architectural pattern",
+                    "correct": true
+                },
+                {
+                    "text": "MVC Architecture pattern"
+                },
+                {
+                    "text": "Decorator pattern"
+                },
+                {
+                    "text": "Observer Pattern"
+                }
+            ]
+        },
+        {
+            "questionText": "AngularJS is perfect for?",
+            "options": [{
+                    "text": "MPAs"
+                },
+                {
+                    "text": "DPAs"
+                },
+                {
+                    "text": "CPAs"
+                },
+                {
+                    "text": "SPAs",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following directive is used to bind the application data to the HTML view in AngularJS?",
+            "options": [{
+                    "text": "ng-app directive"
+                },
+                {
+                    "text": "ng-bind directive",
+                    "correct": true
+                },
+                {
+                    "text": "ng-init directive"
+                },
+                {
+                    "text": "ng-model directive"
+                }
+            ]
+        },
+        {
+            "questionText": "What does the expression float a = 35 / 0 return?",
+            "options": [{
+                    "text": "0"
+                },
+                {
+                    "text": "Infinity",
+                    "correct": true
+                },
+                {
+                    "text": "Run time exception!"
+                },
+                {
+                    "text": "Not a Number"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following statement is true about $dirty flag?",
+            "options": [{
+                    "text": "$dirty flag is used to state that value has been changed.",
+                    "correct": true
+                },
+                {
+                    "text": "$dirty flag is used to state that the form has invalid data."
+                },
+                {
+                    "text": "Both of the above."
+                },
+                {
+                    "text": "None of the above."
+                }
+            ]
+        }
+    ]
+}

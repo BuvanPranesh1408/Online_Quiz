@@ -1,0 +1,88 @@
+{
+    "questions": [{
+            "questionText": "<input> is -?",
+            "options": [{
+                    "text": "an empty tag.",
+                    "correct": true
+                },
+                {
+                    "text": "a format tag."
+                },
+                {
+                    "text": "All of the above"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following tag is used to define options in a drop-down selection list?",
+            "options": [{
+                    "text": "<select>"
+                },
+                {
+                    "text": "<list>"
+                },
+                {
+                    "text": "<dropdown>"
+                },
+                {
+                    "text": "<option>",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": " Which of the following attribute is used to provide a unique name to an element?",
+            "options": [{
+                    "text": "class"
+                },
+                {
+                    "text": "id",
+                    "correct": true
+                },
+                {
+                    "text": "type"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following is the container for <tr>, <th>, and <td>?",
+            "options": [{
+                    "text": "<data>"
+                },
+                {
+                    "text": "<table>",
+                    "correct": true
+                },
+                {
+                    "text": "<group>"
+                },
+                {
+                    "text": "All of the above"
+                }
+            ]
+        },
+        {
+            "questionText": "What are the types of unordered or bulleted list in HTML?",
+            "options": [{
+                    "text": "disc, circle, square",
+                    "correct": true
+                },
+                {
+                    "text": "disc, square, triangle"
+                },
+                {
+                    "text": "polygon, triangle, circle"
+                },
+                {
+                    "text": "All of the above"
+                }
+            ]
+        }
+    ]
+}

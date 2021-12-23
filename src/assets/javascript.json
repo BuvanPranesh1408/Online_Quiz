@@ -1,0 +1,88 @@
+{
+    "questions": [{
+            "questionText": "In JavaScript, what is a block of statement?",
+            "options": [{
+                    "text": "block that combines a number of statements into a single compound statement",
+                    "correct": true
+                },
+                {
+                    "text": "Conditional block"
+                },
+                {
+                    "text": "both conditional block and a single statement"
+                },
+                {
+                    "text": "block that contains a single statement"
+                }
+            ]
+        },
+        {
+            "questionText": "When interpreter encounters an empty statements, what it will do?",
+            "options": [{
+                    "text": "Shows a warning"
+                },
+                {
+                    "text": "Prompts to complete the statement"
+                },
+                {
+                    "text": "Throws an error"
+                },
+                {
+                    "text": "Ignores the statements",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following variables takes precedence over the others if the names are the same?",
+            "options": [{
+                    "text": "Global variable"
+                },
+                {
+                    "text": "The local element",
+                    "correct": true
+                },
+                {
+                    "text": "The two of the above"
+                },
+                {
+                    "text": "None of the above"
+                }
+            ]
+        },
+        {
+            "questionText": "Which one of the following is the correct way for calling the JavaScript code?",
+            "options": [{
+                    "text": "Preprocessor"
+                },
+                {
+                    "text": "Function/Method",
+                    "correct": true
+                },
+                {
+                    "text": "Triggering Event"
+                },
+                {
+                    "text": "RMI"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following type of a variable is volatile?",
+            "options": [{
+                    "text": "Mutable variable",
+                    "correct": true
+                },
+                {
+                    "text": "Dynamic variable"
+                },
+                {
+                    "text": "Volatile variable"
+                },
+                {
+                    "text": "Immutable variable"
+                }
+            ]
+        }
+    ]
+}
